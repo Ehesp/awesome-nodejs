@@ -648,6 +648,7 @@
 - [kue](https://github.com/Automattic/kue) - Priority job queue backed by Redis.
 - [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue.
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
+- [RediBox Job](https://github.com/redibox/job) -  High performance, robust and flexible queue/worker system powered by Redis.
 
 
 ### Node.js management
